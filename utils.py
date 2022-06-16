@@ -2,7 +2,8 @@ import os
 import time
 import threading
 from multiprocessing import Process, Manager
-
+import matplotlib
+import music21
 from matplotlib import pyplot as plt
 import numpy as np
 import streamlit as st
